@@ -38,6 +38,6 @@ end
 def square_root(num)
   describe "#square_root" do
   it "returns the square root of a number" do
-  square_root = math.sqrt(n)
+  square_root = Math.sqrt(n)
   puts square_root 
 end
